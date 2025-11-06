@@ -7,7 +7,7 @@ I am actively pursuing a career in Software Development, with a particular empha
 
 ## 🤝 Skills 
 - HTML, CSS, Javascript
-<img src="../assets/image.png" alt="Banner" width="100%" />
+<img src="../assets/image.png" alt="Banner" width="90%" />
 - Git & GitHub  
 - Basic programming logic and problem-solving  
 - Understanding software development processes 
