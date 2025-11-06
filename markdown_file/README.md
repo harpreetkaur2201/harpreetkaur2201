@@ -13,6 +13,7 @@ I am actively pursuing a career in Software Development, with a particular empha
 
 ##🤙 Contact information
 **🌐LinkedIn:** https://www.linkedin.com/in/harpreet-khosa-8349a9349?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
 **📧Email:** hkhosa016@gmail.com
 
 ## Programming Statistics
