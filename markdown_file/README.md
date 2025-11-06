@@ -6,13 +6,13 @@ My name is Harpreet Kaur, and I am a committed learner with a solid background i
 I am actively pursuing a career in Software Development, with a particular emphasis on web technologies and application design. I am dedicated to exploring innovative tools, advancing my programming skills, and mastering modern frameworks that facilitate the realization of ideas. My objective is to become a well-rounded developer who not only writes clean and efficient code but also creates projects that are user-friendly, accessible, and impactful.In addition to my technical pursuits, I engage with emerging technologies, contribute to personal projects, and ensure that I remain informed about the latest advancements in the tech industry. I am a strong advocate for continuous learning and curiosity, which I consider essential for both personal and professional growth; this mindset drives my approach to every endeavor I undertake.
 
 ## 🤝 Skills 
-- HTML, CSS, Javascript
+ - HTML, CSS, Javascript
 <img src="../assets/image.png" alt="Banner" width="90%" />
  - Git & GitHub
    
-- Basic programming logic and problem-solving
+ - Basic programming logic and problem-solving
   
-- Understanding software development processes 
+ - Understanding software development processes 
 
 ##🤙 Contact information
 **🌐LinkedIn:** https://www.linkedin.com/in/harpreet-khosa-8349a9349?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
