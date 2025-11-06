@@ -1,5 +1,5 @@
 ## Welcome to my GitHub space! 👋
-![Banner](/harpreetkaur2201/assets/ELECTRONîCA.png)
+![Banner](../assets/ELECTRONîCA.png)
 ## ✨About Me
 My name is Harpreet Kaur, and I am a committed learner with a solid background in Computer Engineering. My journey in technology began during my engineering studies, where I developed a comprehensive understanding of the harmony between computer systems, hardware, and software in addressing real-world challenges. As my knowledge expanded, I grew increasingly passionate about utilizing coding and innovation to convert creative concepts into practical solutions.To further refine my professional and interpersonal skills, I completed a course in Client Service Specialization. This program significantly enhanced my communication, teamwork, and problem-solving capabilities—skills that are essential in the field of software development. I take great pride in collaborating with various stakeholders, understanding their needs, and delivering digital solutions that enhance their experiences.
 
