@@ -21,10 +21,7 @@ I am actively pursuing a career in Software Development, with a particular empha
 **📧Email:** hkhosa016@gmail.com
 
 ## Programming Statistics
-- **Repositories Created:** 12  
-- **Total Commits:** 350+  
-- **Projects Completed:** 8  
-- **Lines of Code Written:** 15,000+  
-- **Active Followers:** 25  
-- **Stars on Repositories:** 15
+- **Repositories Created:** 3  
+- **Total Commits:** 100+  
+- **Projects Completed:** 3
  
