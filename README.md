@@ -9,7 +9,7 @@ I am actively pursuing a career in **Software Development**, with a particular e
 
 ## 🤝 Skills 
 - HTML, CSS, Javascript
- <img src="./assets/image.png" alt="Banner" width="95%"  height="20%"/>
+ <img src="./assets/image.png" alt="Banner" width="95%"/>
 
 
 - Git & GitHub  
@@ -23,7 +23,7 @@ I am actively pursuing a career in **Software Development**, with a particular e
 **📧Email:** hkhosa016@gmail.com
 
 ## Programming Statistics
-- **Repositories Created:** 3  
+- **Repositories Created:** 6  
 - **Total Commits:** 100+  
-- **Projects Completed:** 3
+- **Projects Completed:** 5
  
