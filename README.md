@@ -9,7 +9,7 @@ I am actively pursuing a career in **Software Development**, with a particular e
 
 ## 🤝 Skills 
 - HTML, CSS, Javascript
- <img src="./assets/image.png" alt="Banner" width="60%" />
+ <img src="./assets/image.png" alt="Banner" width="80%" />
 
 
 - Git & GitHub  
