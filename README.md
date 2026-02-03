@@ -1,7 +1,7 @@
 ## Welcome to my GitHub space! 👋
 ![Banner](./assets/ELECTRONîCA.png)
 ## ✨About Me
-👋 Hi, I’m Harpreet Kaur
+Hi, I’m Harpreet Kaur. 
 I am a Computer Engineering graduate and an aspiring Software Developer with a strong interest in web technologies and application development. I enjoy transforming ideas into functional, user-focused solutions by writing clean, efficient, and maintainable code.
 
 Through my Software Developer studies, I have worked on academic and personal projects that strengthened my understanding of programming fundamentals, application design, and problem-solving. These projects reflect my ability to apply theoretical knowledge to real-world scenarios and continuously improve through practice.
