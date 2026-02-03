@@ -1,11 +1,14 @@
 ## Welcome to my GitHub space! 👋
 ![Banner](./assets/ELECTRONîCA.png)
 ## ✨About Me
-My name is Harpreet Kaur, and I am a committed learner with a solid background in Computer Engineering. My journey in technology began during my engineering studies, where I developed a comprehensive understanding of the harmony between computer systems, hardware, and software in addressing real-world challenges. As my knowledge expanded, I grew increasingly passionate about utilizing coding and innovation to convert creative concepts into practical solutions.To further refine my professional and interpersonal skills.
+👋 Hi, I’m Harpreet Kaur
+I am a Computer Engineering graduate and an aspiring Software Developer with a strong interest in web technologies and application development. I enjoy transforming ideas into functional, user-focused solutions by writing clean, efficient, and maintainable code.
 
-I completed a course in **Client Service Specialist**. This program significantly enhanced my communication, teamwork, and problem-solving capabilities—skills that are essential in the field of software development. I take great pride in collaborating with various stakeholders, understanding their needs, and delivering digital solutions that enhance their experiences.
+Through my Software Developer studies, I have worked on academic and personal projects that strengthened my understanding of programming fundamentals, application design, and problem-solving. These projects reflect my ability to apply theoretical knowledge to real-world scenarios and continuously improve through practice.
 
-I am actively pursuing a career in **Software Development**, with a particular emphasis on web technologies and application design. I am dedicated to exploring innovative tools, advancing my programming skills, and mastering modern frameworks that facilitate the realization of ideas. My objective is to become a well-rounded developer who not only writes clean and efficient code but also creates projects that are user-friendly, accessible, and impactful.In addition to my technical pursuits, I engage with emerging technologies, contribute to personal projects, and ensure that I remain informed about the latest advancements in the tech industry. I am a strong advocate for continuous learning and curiosity, which I consider essential for both personal and professional growth; this mindset drives my approach to every endeavor I undertake.
+In addition to my technical background, I completed a Client Service Specialist course, which enhanced my communication, teamwork, and customer-focused thinking. This experience allows me to collaborate effectively with diverse teams, understand user needs, and contribute to building software that is both technically sound and user-friendly.
+
+I am highly motivated to grow as a developer and actively explore modern tools, frameworks, and emerging technologies. I value continuous learning, adaptability, and attention to detail, and I strive to create projects that are accessible, reliable, and impactful.
 
 ## 🤝 Skills 
 - HTML, CSS, Javascript
