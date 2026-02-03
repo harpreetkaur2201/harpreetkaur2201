@@ -21,7 +21,7 @@ I am highly motivated to grow as a developer and actively explore modern tools, 
 
 ##🤙 Contact information
 
-**🌐LinkedIn:** https://www.linkedin.com/in/harpreet-khosa-8349a9349?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+**🌐LinkedIn:**(https://www.linkedin.com/in/harpreet-kaur12/)
 
 **📧Email:** hkhosa016@gmail.com
 
