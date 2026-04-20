@@ -2,8 +2,6 @@
 
 ![Banner](./assets/ELECTRONîCA.png)
 
----
-
 ## ✨ About Me
 
 Hi, I’m **Harpreet Kaur**, a Computer Engineering graduate and aspiring Software Developer with a strong interest in web development and application design.
@@ -15,8 +13,6 @@ Through my Software Developer program, I have developed a solid foundation in pr
 Alongside my technical background, I completed a Client Service Specialist program, which strengthened my communication, teamwork, and problem-solving abilities. This helps me collaborate effectively, understand user needs, and design solutions that are both technical and user-oriented.
 
 I am continuously learning and exploring modern development tools, frameworks, and best practices to grow as a developer and contribute meaningfully to real-world projects.
-
----
 
 ## 🛠️ Technical Skills
 
@@ -32,15 +28,11 @@ Git, GitHub, Visual Studio
 **Core Concepts:**  
 Object-Oriented Programming (OOP), MVC Architecture, CRUD Operations, Problem Solving  
 
----
-
 ## 📊 GitHub Activity
 
 - 📁 Repositories Created: 6  
 - 🔄 Total Commits: 100+  
 - 💻 Projects Completed: 5  
-
----
 
 ## 🚀 What I Focus On
 
@@ -49,14 +41,10 @@ Object-Oriented Programming (OOP), MVC Architecture, CRUD Operations, Problem So
 - Improving problem-solving and logical thinking skills  
 - Learning modern development tools and frameworks  
 
----
-
 ## 🤝 Contact Me
 
 - 📧 Email: your-email@example.com  
 - 💼 LinkedIn: https://linkedin.com/in/yourprofile  
 - 🌐 Portfolio: https://your-portfolio-link.com  
-
----
 
 ## 💡 Always Learning, Always Building
