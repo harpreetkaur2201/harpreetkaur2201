@@ -23,7 +23,7 @@ HTML, CSS, JavaScript, C#, PHP
 ASP.NET MVC  
 
 **Tools:**  
-Git, GitHub, Visual Studio  
+GitHub, Visual Studio  
 
 **Core Concepts:**  
 Object-Oriented Programming (OOP), MVC Architecture, CRUD Operations, Problem Solving  
@@ -43,8 +43,7 @@ Object-Oriented Programming (OOP), MVC Architecture, CRUD Operations, Problem So
 
 ## 🤝 Contact Me
 
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
-- 🌐 Portfolio: https://your-portfolio-link.com  
+**💼 LinkedIn:**(https://www.linkedin.com/in/harpreet-kaur12/)
+**📧Email:** hkhosa016@gmail.com
 
 ## 💡 Always Learning, Always Building
