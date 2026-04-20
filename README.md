@@ -30,7 +30,7 @@ Object-Oriented Programming (OOP), MVC Architecture, CRUD Operations, Problem So
 
 ## 📊 GitHub Activity
 
-- 📁 Repositories Created: 6  
+- 📁 Repositories Created: 10  
 - 🔄 Total Commits: 100+  
 - 💻 Projects Completed: 5  
 
@@ -44,6 +44,7 @@ Object-Oriented Programming (OOP), MVC Architecture, CRUD Operations, Problem So
 ## 🤝 Contact Me
 
 **💼 LinkedIn:**(https://www.linkedin.com/in/harpreet-kaur12/)
+
 **📧Email:** hkhosa016@gmail.com
 
 ## 💡 Always Learning, Always Building
