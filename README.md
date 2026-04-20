@@ -1,32 +1,62 @@
-## Welcome to my GitHub space! 👋
+# 👋 Welcome to My GitHub Space
+
 ![Banner](./assets/ELECTRONîCA.png)
-## ✨About Me
-Hi, I’m Harpreet Kaur. 
-I am a Computer Engineering graduate and an aspiring Software Developer with a strong interest in web technologies and application development. I enjoy transforming ideas into functional, user-focused solutions by writing clean, efficient, and maintainable code.
 
-Through my Software Developer studies, I have worked on academic and personal projects that strengthened my understanding of programming fundamentals, application design, and problem-solving. These projects reflect my ability to apply theoretical knowledge to real-world scenarios and continuously improve through practice.
+---
 
-In addition to my technical background, I completed a Client Service Specialist course, which enhanced my communication, teamwork, and customer-focused thinking. This experience allows me to collaborate effectively with diverse teams, understand user needs, and contribute to building software that is both technically sound and user-friendly.
+## ✨ About Me
 
-I am highly motivated to grow as a developer and actively explore modern tools, frameworks, and emerging technologies. I value continuous learning, adaptability, and attention to detail, and I strive to create projects that are accessible, reliable, and impactful.
+Hi, I’m **Harpreet Kaur**, a Computer Engineering graduate and aspiring Software Developer with a strong interest in web development and application design.
 
-## 🤝 Skills 
-- HTML, CSS, Javascript
- <img src="./assets/image.png" alt="Banner" width="95%"/>
+I enjoy building clean, functional, and user-focused applications by combining logical problem-solving with practical coding skills. My goal is to turn ideas into efficient software solutions that are both reliable and easy to use.
 
+Through my Software Developer program, I have developed a solid foundation in programming fundamentals, object-oriented design, and full-stack web development concepts. I have applied these skills in academic and personal projects where I focused on building structured, maintainable, and scalable applications.
 
-- Git & GitHub  
-- Basic programming logic and problem-solving  
-- Understanding software development processes 
+Alongside my technical background, I completed a Client Service Specialist program, which strengthened my communication, teamwork, and problem-solving abilities. This helps me collaborate effectively, understand user needs, and design solutions that are both technical and user-oriented.
 
-##🤙 Contact information
+I am continuously learning and exploring modern development tools, frameworks, and best practices to grow as a developer and contribute meaningfully to real-world projects.
 
-**🌐LinkedIn:**(https://www.linkedin.com/in/harpreet-kaur12/)
+---
 
-**📧Email:** hkhosa016@gmail.com
+## 🛠️ Technical Skills
 
-## Programming Statistics
-- **Repositories Created:** 6  
-- **Total Commits:** 100+  
-- **Projects Completed:** 5
- 
+**Languages:**  
+HTML, CSS, JavaScript, C#, PHP  
+
+**Frameworks & Technologies:**  
+ASP.NET MVC  
+
+**Tools:**  
+Git, GitHub, Visual Studio  
+
+**Core Concepts:**  
+Object-Oriented Programming (OOP), MVC Architecture, CRUD Operations, Problem Solving  
+
+---
+
+## 📊 GitHub Activity
+
+- 📁 Repositories Created: 6  
+- 🔄 Total Commits: 100+  
+- 💻 Projects Completed: 5  
+
+---
+
+## 🚀 What I Focus On
+
+- Writing clean and maintainable code  
+- Building responsive and user-friendly web applications  
+- Improving problem-solving and logical thinking skills  
+- Learning modern development tools and frameworks  
+
+---
+
+## 🤝 Contact Me
+
+- 📧 Email: your-email@example.com  
+- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
+- 🌐 Portfolio: https://your-portfolio-link.com  
+
+---
+
+## 💡 Always Learning, Always Building
